@@ -1,12 +1,9 @@
 # CALTEST
 REPOSITORIO DE PRUEBA
-# Mi Aplicación
-
-Bienvenido a Mi Aplicación, una increíble aplicación web que hace cosas sorprendentes.
 
 ## Descripción
 
-Mi Aplicación es una aplicación web diseñada para facilitar la vida de las personas. Permite a los usuarios hacer X, Y y Z de una manera fácil y rápida.
+Este repositorio lo he creado para hacer pruebas de la asignatura CALIDAD durante este curso.
 
 ## Capturas de Pantalla
 
