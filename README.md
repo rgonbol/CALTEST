@@ -5,7 +5,7 @@ REPOSITORIO DE PRUEBA
 
 Este repositorio lo he creado para hacer pruebas de la asignatura CALIDAD durante este curso.
 
-## Capturas de Pantalla
+### Capturas de Pantalla
 
 ![Página de Inicio](screenshots/home.png)
 *Página de Inicio de Mi Aplicación*
@@ -21,9 +21,7 @@ Para instalar Mi Aplicación en tu máquina local, sigue estos pasos:
 ## Uso
 
 Para iniciar Mi Aplicación, ejecuta el siguiente comando:
-npm start
-
-
+  npm start
 Esto abrirá la aplicación en tu navegador predeterminado.
 
 ## Contribución
