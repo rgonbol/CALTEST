@@ -1,5 +1,5 @@
 # Usa la imagen base de Ubuntu 14.04
-FROM ubuntu:14.04
+FROM ubuntu:20.04
 
 # Actualiza el sistema e instala Java 8
 RUN apt-get update && apt-get install -y openjdk-8-jdk
